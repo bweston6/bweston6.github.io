@@ -13,8 +13,8 @@
             "type": "image/png"
         }
     ],
-    "theme_color": "#58a6ff",
-    "background_color": "#58a6ff",
+    "theme_color": "#0969da",
+    "background_color": "#0969da",
     "start_url": "https://bweston6.github.io/UoL/",
     "display": "standalone"
 }
