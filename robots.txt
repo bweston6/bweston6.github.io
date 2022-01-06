@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://bweston6.github.io/UoL/sitemap.xml
+Sitemap: https://notes.bweston.uk/sitemap.xml
